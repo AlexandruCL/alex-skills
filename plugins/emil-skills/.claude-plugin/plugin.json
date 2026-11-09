@@ -1,0 +1,13 @@
+{
+  "name": "emil-skills",
+  "description": "Emil Kowalski's skills for animation, interface craft, performance and UI libraries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://emilkowal.ski"
+  },
+  "homepage": "https://github.com/emilkowalski/skills",
+  "repository": "https://github.com/emilkowalski/skills",
+  "license": "MIT",
+  "skills": "./skills"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "playwright-mcp",
+  "description": "Playwright MCP server: lets the agent drive and inspect a real browser.",
+  "version": "0.0.83",
+  "author": {
+    "name": "Microsoft"
+  },
+  "homepage": "https://github.com/microsoft/playwright-mcp",
+  "repository": "https://github.com/microsoft/playwright-mcp",
+  "license": "Apache-2.0",
+  "mcpServers": "./.mcp.json"
+}

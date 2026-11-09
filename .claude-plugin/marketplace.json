@@ -1,0 +1,41 @@
+{
+  "name": "alex-skills",
+  "owner": {
+    "name": "AlexandruCL"
+  },
+  "metadata": {
+    "description": "Design and browser skills for coding agents: Impeccable, Emil Kowalski's UI skills, taste-skill, and Playwright MCP."
+  },
+  "plugins": [
+    {
+      "name": "impeccable",
+      "description": "Design vocabulary and skills for frontend development: /polish, /critique, /audit, /typeset and more.",
+      "source": {
+        "source": "github",
+        "repo": "ByChokeYT/Impecable"
+      },
+      "category": "design"
+    },
+    {
+      "name": "emil-skills",
+      "description": "Emil Kowalski's skills for animation, interface craft, performance and UI libraries.",
+      "source": "./plugins/emil-skills",
+      "category": "design"
+    },
+    {
+      "name": "taste-skill",
+      "description": "tasteskill v2: art direction for websites, product pages, dashboards and app screens, checked in a real browser.",
+      "source": {
+        "source": "github",
+        "repo": "leonxlnx/taste-skill"
+      },
+      "category": "design"
+    },
+    {
+      "name": "playwright-mcp",
+      "description": "Playwright MCP server: lets the agent drive and inspect a real browser.",
+      "source": "./plugins/playwright-mcp",
+      "category": "testing"
+    }
+  ]
+}
