@@ -4,7 +4,7 @@
     "name": "AlexandruCL"
   },
   "metadata": {
-    "description": "Design and browser skills for coding agents: Impeccable, Emil Kowalski's UI skills, taste-skill, and Playwright MCP."
+    "description": "Design and browser skills for coding agents: Impeccable, Emil Kowalski's UI skills, taste-skill, Vercel's web-design-guidelines, and Playwright MCP."
   },
   "plugins": [
     {
@@ -36,6 +36,12 @@
       "description": "Playwright MCP server: lets the agent drive and inspect a real browser.",
       "source": "./plugins/playwright-mcp",
       "category": "testing"
+    },
+    {
+      "name": "web-design-guidelines",
+      "description": "Vercel's Web Interface Guidelines review: audits UI code for accessibility, UX and design best practices.",
+      "source": "./plugins/web-design-guidelines",
+      "category": "design"
     }
   ]
 }
